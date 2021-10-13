@@ -28,7 +28,7 @@ def mergeTwoLists( l1, l2) :
             i+=1
         return newList
 
-l1=[1,2,3]
+l1=[1,2,5,9]
 l2= [1,3,5]
 l3 = mergeTwoLists( l1, l2)
 print (l3)
